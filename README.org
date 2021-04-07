@@ -5,4 +5,4 @@
    (в рамках того что может понадобиться при написании скриптов)
 
 ** Ссылки
-   Найти adv-bash
+   [[file:Advanced Bash-Scripting Guide.html][abs-book.html]]
