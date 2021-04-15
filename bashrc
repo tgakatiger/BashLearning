@@ -9,4 +9,5 @@ alias gl="git pull"
 alias gc="git commit"
 alias gcm="git commit -m"
 alias ga="git add"
+alias glo="git log --pretty=oneline"
 
